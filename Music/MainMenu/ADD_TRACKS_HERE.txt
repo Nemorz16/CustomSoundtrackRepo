@@ -1,0 +1,2 @@
+Place WAV or OGG music here. Restart Tarkov after changing files.
+This text file is not copied by the installer.

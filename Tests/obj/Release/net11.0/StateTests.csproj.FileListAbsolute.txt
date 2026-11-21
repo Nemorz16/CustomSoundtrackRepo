@@ -1,0 +1,45 @@
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.exe
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.deps.json
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.runtimeconfig.json
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.AssemblyInfoInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.AssemblyInfo.cs
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.csproj.CoreCompileInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\refint\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.genruntimeconfig.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\ref\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.csproj.Up2Date
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.exe
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.deps.json
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.runtimeconfig.json
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.AssemblyInfoInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.AssemblyInfo.cs
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.csproj.CoreCompileInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\refint\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.genruntimeconfig.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\ref\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.csproj.Up2Date
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.exe
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.deps.json
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.runtimeconfig.json
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\bin\Release\net11.0\StateTests.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.AssemblyInfoInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.AssemblyInfo.cs
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.csproj.CoreCompileInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\refint\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.genruntimeconfig.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\ref\StateTests.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\Tests\obj\Release\net11.0\StateTests.csproj.Up2Date

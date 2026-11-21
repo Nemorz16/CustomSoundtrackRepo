@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\will_\\Desktop\\Customizing Tarkov\\Custom Soundtrack\\Releases\\Custom Soundtrack 0.5.0 Final Menus\\Source\\CustomSoundtrack_0.5.0_AudioControls\\CustomSoundtrack.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\will_\\Desktop\\Customizing Tarkov\\Custom Soundtrack\\Releases\\Custom Soundtrack 0.5.0 Final Menus\\Source\\CustomSoundtrack_0.5.0_AudioControls\\CustomSoundtrack.csproj": {
+      "version": "0.5.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\will_\\Desktop\\Customizing Tarkov\\Custom Soundtrack\\Releases\\Custom Soundtrack 0.5.0 Final Menus\\Source\\CustomSoundtrack_0.5.0_AudioControls\\CustomSoundtrack.csproj",
+        "projectName": "CustomSoundtrack",
+        "projectPath": "C:\\Users\\will_\\Desktop\\Customizing Tarkov\\Custom Soundtrack\\Releases\\Custom Soundtrack 0.5.0 Final Menus\\Source\\CustomSoundtrack_0.5.0_AudioControls\\CustomSoundtrack.csproj",
+        "packagesPath": "C:\\Users\\will_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\will_\\Desktop\\Customizing Tarkov\\Custom Soundtrack\\Releases\\Custom Soundtrack 0.5.0 Final Menus\\Source\\CustomSoundtrack_0.5.0_AudioControls\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\will_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "11.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "NETStandard.Library.Ref",
+              "version": "[2.1.0, 2.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

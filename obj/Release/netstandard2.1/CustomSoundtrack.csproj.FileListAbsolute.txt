@@ -1,0 +1,30 @@
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\bin\Release\netstandard2.1\CustomSoundtrack.deps.json
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\bin\Release\netstandard2.1\CustomSoundtrack.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\bin\Release\netstandard2.1\CustomSoundtrack.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.csproj.AssemblyReference.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.AssemblyInfoInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.AssemblyInfo.cs
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.csproj.CoreCompileInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\0.5.0 Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\bin\Release\netstandard2.1\CustomSoundtrack.deps.json
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\bin\Release\netstandard2.1\CustomSoundtrack.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\bin\Release\netstandard2.1\CustomSoundtrack.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.csproj.AssemblyReference.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.AssemblyInfoInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.AssemblyInfo.cs
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.csproj.CoreCompileInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Environmental Edit\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\bin\Release\netstandard2.1\CustomSoundtrack.deps.json
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\bin\Release\netstandard2.1\CustomSoundtrack.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\bin\Release\netstandard2.1\CustomSoundtrack.pdb
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.csproj.AssemblyReference.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.AssemblyInfoInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.AssemblyInfo.cs
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.csproj.CoreCompileInputs.cache
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.dll
+C:\Users\will_\Desktop\Customizing Tarkov\Custom Soundtrack\Releases\Custom Soundtrack 0.5.0 Final Menus\Source\CustomSoundtrack_0.5.0_AudioControls\obj\Release\netstandard2.1\CustomSoundtrack.pdb

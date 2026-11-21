@@ -1,0 +1,139 @@
+CUSTOM SOUNDTRACK 0.4.3 — SIMPLE UI SOUND PACKS
+
+USE A PACK
+1. Put its folder in:
+   BepInEx/plugins/CustomSoundtrack/Sounds/Packs/
+2. Open Custom Soundtrack > UI Sounds in the BepInEx settings menu.
+3. Turn RefreshPacks on. It resets itself after scanning.
+4. Close/reopen the settings menu, then choose SoundPack.
+5. Allow a short time for sounds to load. Vanilla plays until replacements are ready.
+Restarting the game also discovers packs automatically.
+
+MAKE YOUR OWN PACK
+Create a folder with any friendly name, for example My Sound Pack.
+Put correctly named WAV files directly inside it:
+
+Sounds/Packs/My Sound Pack/BackpackOpen.wav
+Sounds/Packs/My Sound Pack/QuestCompleted.wav
+Sounds/Packs/My Sound Pack/IncomingMessage.wav
+
+Do NOT create UI, Chat or event subfolders inside the pack. No manifest or
+configuration file is needed. Your folder name becomes its dropdown label.
+Each sound is optional. Missing or invalid replacements keep the vanilla sound.
+Use short, real WAV files. Renaming an MP3 extension does not convert it.
+OGG also works with the same stem; WAV wins if both formats exist.
+Names are matched without case sensitivity, but use the exact spelling below.
+Use one file per event. Numbered variants are not supported for flat packs.
+
+After editing files, turn RefreshPacks on to reload them, or restart the game.
+Selecting another pack loads it automatically. A switch may briefly use vanilla
+while loading. A sound already playing may finish before the new pack is heard.
+To share a pack, ZIP its named folder; recipients put that folder under Packs.
+No audio pack or silent placeholder WAV files are included with this build.
+
+SETTINGS
+UI Sounds > SoundPack: choose Default (Vanilla) or an installed pack.
+UI Sounds > Enabled: master replacement switch.
+UI Sounds > RefreshPacks: rescan folders and reload the selected pack.
+UI Sounds > DebugLogging: log the sound key being replaced.
+UI Sounds - UI / Chat / Notifications: individual event toggles still apply.
+Game UI volume applies. Boss, music and radio settings are unchanged.
+Do not name a pack "Default (Vanilla)" or "Legacy folders"; these are reserved.
+
+EXISTING 0.4.2 SOUNDS
+If WAV/OGG files exist under Sounds/UI, Sounds/Chat or Sounds/Notifications,
+Legacy folders appears in the dropdown and is the first-upgrade default.
+This preserves the old per-event folders, including random multiple replacements.
+No old files are moved or deleted. To make a new flat pack, copy a chosen file
+from each old event folder and rename it to the event name below.
+For example Sounds/UI/BackpackOpen/anything.wav becomes
+Sounds/Packs/My Pack/BackpackOpen.wav.
+New installations default to vanilla until a pack is created and selected.
+If a selected pack disappears, choose another or refresh to fall back to vanilla.
+The installer keeps existing sound files rather than overwrite your work.
+Replace installed files yourself when updating an existing pack.
+
+USEFUL FIRST REPLACEMENTS
+BackpackOpen.wav / BackpackClose.wav: backpack open/close.
+QuestCompleted.wav / QuestFinished.wav: completion and finished/hand-in keys;
+verify which key your desired task event triggers in game.
+IncomingMessage.wav: ordinary message.
+IncomingMessageInsurance.wav: insurance message.
+IncomingMessageAttachments.wav: message with attachments.
+GeneralNotification.wav: shared notification cue; not exclusive to messages.
+Some actions can fire more than one distinct sound event.
+PlayerIsDead.wav can overlap the separate death soundtrack; test intentionally.
+
+ALL SUPPORTED WAV FILENAMES
+AcceptedRequest.wav
+AchievementCompleted.wav
+BackpackClose.wav
+BackpackOpen.wav
+ButtonBottomBarClick.wav
+ButtonClick.wav
+ButtonOver.wav
+ChatSelect.wav
+DeclinedRequest.wav
+DialogButtonClick.wav
+DialogButtonHover.wav
+ErrorMessage.wav
+GeneralNotification.wav
+GeneratorTurnOff.wav
+GeneratorTurnOn.wav
+IncomingFriendRequest.wav
+IncomingMessage.wav
+IncomingMessageAttachments.wav
+IncomingMessageInsurance.wav
+InsuranceInsured.wav
+InsuranceItemOnInsure.wav
+MalfunctionExamined.wav
+MenuCheckBox.wav
+MenuContextMenu.wav
+MenuDropdown.wav
+MenuDropdownSelect.wav
+MenuEscape.wav
+MenuInspectorWindowClose.wav
+MenuInspectorWindowOpen.wav
+MenuInstallMag.wav
+MenuInstallModFunc.wav
+MenuInstallModGear.wav
+MenuInstallModVital.wav
+MenuMapTag.wav
+MenuModdingClose.wav
+MenuModdingOpen.wav
+MenuOpenContainer.wav
+MenuStock.wav
+MenuTraderPress.wav
+MenuWeaponAssemble.wav
+MenuWeaponDisassemble.wav
+OutgoingFriendRequest.wav
+OutgoingMessage.wav
+Pinned.wav
+PlayerIsDead.wav
+QuestCompleted.wav
+QuestFailed.wav
+QuestFinished.wav
+QuestStarted.wav
+QuestSubTrackComplete.wav
+RepairComplete.wav
+StartIgnore.wav
+TacticalClothingApply.wav
+TacticalClothingBuy.wav
+TradeOperationComplete.wav
+Unpinned.wav
+
+TEST THIS UPDATE
+- Create two pack folders with noticeably different BackpackOpen.wav clips.
+- Refresh, select each pack, and test opening a backpack.
+- Include only one sound; confirm unrelated sounds remain vanilla.
+- Edit a clip, refresh, and confirm the replacement reloads.
+- Select Default (Vanilla), then disable UI Sounds: vanilla should return.
+- If upgrading with existing sounds, verify Legacy folders still works.
+- Check all successful 0.4.2 music/radio/boss behavior remains unchanged.
+
+INSTALL THE TEST BUILD
+Close Tarkov. Extract this source package into a new folder. Run beside Build.ps1:
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Build.ps1 -SptRoot "E:\SPT" -Test -Install
+This is a source/build package, not a precompiled DLL release.
+Syntax/package checks are performed here. Full compilation and in-game dropdown,
+refresh and sound playback checks must run on your SPT installation.

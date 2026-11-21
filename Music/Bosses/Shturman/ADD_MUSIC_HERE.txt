@@ -1,0 +1,1 @@
+Add WAV/OGG directly here. Restart after changing files. Enable Boss Music and the chosen boss in BepInEx settings. Individual folders fall back to Shared if empty.

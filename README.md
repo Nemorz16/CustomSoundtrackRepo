@@ -1,20 +1,4 @@
-# Custom Soundtrack 0.5.0 — audio controls test build
-
-For SPT 4.1.6 and testing with Fika 2.4.6. This is a test release, not an in-game-verified release. Settings marked `***` need your testing.
-
-## Install the compiled test build
-
-1. Close Tarkov.
-2. Back up your existing `BepInEx/plugins/CustomSoundtrack/CustomSoundtrack.dll` and `BepInEx/config/com.wrussell.customsoundtrack.cfg` outside the plugins folder.
-3. Copy this download's **BepInEx** folder into your main SPT folder. Allow the CustomSoundtrack DLL to be replaced. Keep your music and sound packs.
-4. For the integrated environment test, move the separate **EnvironmentVolumeControl.dll** outside `BepInEx/plugins` and restart. If both are loaded, this mod skips its environment hooks to avoid multiplying two mods' settings.
-5. Start the game. In the BepInEx configuration menu, find **Custom Soundtrack**. Your installed Configuration Manager controls the menu-opening key; commonly it is F12.
-
-The compiled DLL is included: PowerShell is optional. It was compiled against BepInEx 5.4.x and Unity 2022.3 reference assemblies. The supplied game/Fika DLLs were inspected for hook names, but a running SPT/Fika game is not available here. If your installed assemblies differ, rebuild against them using the optional source instructions below.
-
-Do not install another standalone HideoutRadio or CustomUISounds DLL alongside the integrated version. No game files are overwritten.
-
-**Rollback:** close the game, restore the backed-up DLL and config, and put your separate environmental mod back if desired. Music files are not changed by the update.
+# Custom Soundtrack 0.5.0
 
 ## What changed
 
